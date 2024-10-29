@@ -8,7 +8,7 @@
 
 ### Introduction
 
-**Pi Network** is revolutionizing cryptocurrency mining with its **user-friendly mobile app** that enables you to mine **Pi coins** directly from your smartphone. In the last week alone, Pi’s value has seen significant fluctuations, spiking from around $40 to nearly $99 before stabilizing at $55. These price changes highlight Pi’s potential as an accessible and beginner-friendly cryptocurrency with a promising future.
+**Pi Network** is revolutionizing cryptocurrency mining with its **user-friendly mobile app** that enables you to mine **Pi coins** directly from your smartphone. In the last week alone, Pi’s value has seen significant fluctuations, spiking from around **$40** to nearly **$99** before stabilizing at **$55**. These price changes highlight Pi’s potential as an accessible and beginner-friendly cryptocurrency with a promising future.
 
 Whether you're new to crypto or an experienced enthusiast, now could be the ideal time to explore **Pi Network** and join this growing community early in its development.
 
@@ -79,7 +79,7 @@ By signing up today, you can start accumulating Pi coins on your phone, cost-fre
 ### Additional Resources
 
 - [Official Pi Network Website](https://minepi.com/)
-- [Download the Pi Network App on Google Play](https://play.google.com/)  
-- [Download the Pi Network App on the Apple App Store](https://apps.apple.com/)
+- [Download the Pi Network App on Google Play](https://play.google.com/store/apps/details?id=com.blockchainvault)  
+- [Download the Pi Network App on the Apple App Store](https://itunes.apple.com/us/app/pi-network/id1445472541)
 
 ---
